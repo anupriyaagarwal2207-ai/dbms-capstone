@@ -1,0 +1,1 @@
+SELECT * FROM Low_Stock_Alert;
